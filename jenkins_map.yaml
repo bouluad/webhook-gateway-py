@@ -1,0 +1,3 @@
+# Example: map GitHub orgs or repos to Jenkins instances
+org/infra: "https://jenkins.infra.company.com/github-webhook/"
+org/app: "https://jenkins.app.company.com/github-webhook/"
